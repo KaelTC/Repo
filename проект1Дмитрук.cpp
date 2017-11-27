@@ -11,7 +11,7 @@ int main()
 {
     double A, P, S;
     
-	printf("input A: ");
+	printf("input A: "); //abc
 	scanf_s("%lf", &A);
 	S = A*A;
 	P = A * 4;
